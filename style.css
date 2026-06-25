@@ -84,8 +84,8 @@ nav a:hover {
 
 .card {
   background-color: #121a33;
-  padding: 25px;
-  border-radius: 12px;
+  padding: 10px;
+  border-radius: 10px;
   flex: 1;
   min-width: 250px;
 }
