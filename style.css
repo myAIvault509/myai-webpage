@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #2044bb;
+  background-color: #06217a;
   color: rgb(32, 29, 29);
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -52,7 +52,7 @@ nav a:hover {
 
 .hero p {
   font-size: 22px;
-  color: #c8d4e8;
+  color: #e8c8c8;
   margin-bottom: 30px;
 }
 
@@ -122,4 +122,15 @@ footer {
 
 .logo-area h2 {
   color: #4da3ff;
+}
+
+#contact a {
+  color: #7ddcff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  color: white;
+  text-decoration: underline;
 }
