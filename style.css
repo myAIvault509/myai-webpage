@@ -134,16 +134,3 @@ footer {
   color: white;
   text-decoration: underline;
 }
-.image-gallery {
-  display: center;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  margin-top: 25px;
-}
-
-.image-gallery img {
-  width: 100%;
-  border-radius: 14px;
-  display: block;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-}
